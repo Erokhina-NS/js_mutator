@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "escodegen": "^1.9.1",
+    "escope": "^4.0.0",
+    "esprima": "^4.0.0",
+    "esquery": "^1.5.0",
+    "estree-utils": "^0.1.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
